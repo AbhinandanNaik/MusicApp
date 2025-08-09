@@ -8,7 +8,7 @@ const songs =[
         poster: "img/1.jpg"
     },
     {
-        id:'2',
+        id:'2', 
         songName:` Alan Walker-Fade <br>
         <div class="subtitle">Alan Walker</div>`,
         poster: "img/2.jpg"
